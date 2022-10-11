@@ -1,0 +1,26 @@
+
+
+
+				searchflight.html 1
+					|
+				   search <--click
+					|
+		----------------------------------
+		|
+		showflights.html 2
+		|
+	----------------------
+	|
+	book now <--click
+	|
+---------------------------------------------
+|		|			|
+login.html 3	forgotpass.html 4	resetpass.html 5
+|
+------not a member <--click--------login <--click
+	|			|
+	register.html 6		dashboard.html 7
+	|			|
+	already a member	logout <-- click
+	|			|
+	login.html 3		logout.html 8 --> searchflight.html

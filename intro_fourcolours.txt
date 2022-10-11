@@ -1,0 +1,247 @@
+1 abhishek mechanical - jfs
+2 amol civil q spider - jfs
+3 atharva bhasme - mechanical - python sql - backend interest
+4 guruprasad patil - mca - backend interest - interest in jfs 
+5 omkar ghodke - mechanical - jfs - 
+6 pankaj pawade - mechanical - alandi
+7 pradip nikam - mca - s/w dev classes - satana - 
+8 rahul khose - mechanical - mumbai - 3.5 years in mech.job - coding interest
+	python - data science - data analysis tool, sql, mysql
+	
+9 rajat kaware - mechanical - q spider - core java - css html basics, dont know the java script
+
+10 rushikesh kashid - karad - mechanical - 3 yrs exp in mech job - website working in four colurs, hence html css js is req
+
+11 rutuja solanke - diploma EXTC - basketball, dance, sketch, state level comp. debate comp. state level, fashion shows participation, degree, q spider campaign - drive - electronics background - no html/css/js - why not to explore - sql core java - completed course - developed interest - pune - wakad - Beed
+   anchoring - 
+
+12. shruti more - sangli - hadapsar - BCA - pg in MCA - cooking - stitching - coding - 50/60% youtube videos - html css js knows - core java - 
+
+13. shubham jagdale - satara - karad - comp sci - hard working employee
+		cricket / singing / acting / youtube channel - singing/acting
+		core java /sql/comp n/w, new technologies to learn
+
+14. vasudev mali - 2 yrs - support and deployment - admin activities
+			shell scripting/ java scripting project
+			mechanical - latur - usmanabad
+
+15. vishwas raut - latur - morwad - mechanical - no coding knowledge - learned c programming from youtube - q spider - sql , core java, html css - jfs course
+ swimming/playing cricket/dancing
+
+
+VOICE
+LIGHT
+INTERNET SPEED
+
+PEACEFUL/DISTURBANCE/GRASPING/ATTENTIONS
+
+EVERYBODY IS FIRST BENCHER
+
+1. 9.30
+   11.00 - 11.15 - PACE, CONTENT, METHODOLOGY, PRACTICALS, Q/A
+
+	9.30
+	10.30 - introduction of the batch
+	10.30 - 11.00 - Big Picture
+	 
+
+2. 11.15 - 13.00
+		HTML
+		agenda 
+
+3. 14.00 - 16.00
+
+4. 16.15 - 18.30
+
+X 5 = 20 SESSIONS
+
+
+Day 1 HTML 
+Day 2 CSS
+Day 3 JS
+Day 4 JS
+Day 5 JS - FINAL FEEDBACK 
+
+
+
+choice = no choice is also a choice
+not doing = doing
+
+
+DEVELOPER - WORKING IN THE COMPANY - DOING CODING - BUT THAT CODE IS NOT BEING USED 
+		BY THE END USER 
+	FLIGHT ENGINEER - TO CREATE THE FLIGHT ENGINE/COPLETE BODY/WINGS
+
+TESTER - FLY THE FLIGHT FOR TESTING THE FAILURES
+
+DEPLOYER - PILOT KNOWS TO FLY IT - PASSENGERS - COMMERCIAL PURPOSE 
+
+DEV/OPS
+
+AMIT - DEVELOPER
+
+SUJIT - TESTER
+
+KIRAN - DEPLOYER
+
+
+COMPANY	ATM = S/W SOFTWARE ENGINEERS - DEVELOPER - H/W + S/W + PIN + DB 
+
+FIELD	ATM = TO LOAD THE CASH = DEPLOYER = SAFETY + SECURITY 
+
+USER	ATM = ARE WE THE END USERS? 	withdraw and deposit our own a/c
+
+					doing/coding/ 
+					|
+					[who]?
+					| DEVELOPER/TESTER/DEPLOYER???
+					|
+					| ? professional/personal/social/
+					| banker/a/c holder/cashier etc
+			---------------------------------
+			|				|		
+			[where]?			[when]? 
+			| place [ branch]		| time [ 9.00 to 13.00 ]
+			|   website			| anytime
+			|   COMPANY 			| 9 TO 18.00 	 
+		--------------------------------------------------
+		|			|			|
+		[why]?			[what]?			[how]?
+		reason			information		implementation/apply it
+		|DEPLOY			|SUBJECT		|PRACTICAL CODING
+		withdraw!!		how much cash		ATM/branch/ATM to deposit
+		deposit			cash??			
+		change of mobile no	which number old/new	branch
+		open fd			duration/roi		online
+								|
+							-----------------
+							|		|
+							success <---TEST-feedback/failure	
+
+	TODAY = 10 FEATURES
+
+	TOMORROW = 12 FEATURES
+
+	DAY AFTER =  REMOVE  OLD 2 FEATURES / AND ADD 3 NEW FEATURES = CHANGE REQUEST
+
+		
+
+TAN[TRA] = H/W
+MAN[TRA] = MIND/ SOFTWARE  
+YAN[TRA] = VEHICLE/PC/LAPTOP
+
+
+					
+				     TECHNOLOGY
+					|
+			----------------------------------
+			|		|		|
+			DESKTOP		ENTERPRISE	MOBILE 
+			|		|		|
+		SINGLE USER		MULTI-USER	APPS
+			|		|		|
+		CALCULATOR	CURRENCY CONVERTER	BOOK MY SHOW
+		
+developer - 
+
+			ENTERPRISE APPLICATIONS
+
+		
+3 tier architecture
+	
+1	machine1		DB
+	|			|
+2	machine2		ANY BANK'S APPLICATION
+	|server machine		| enterprise app - written in JAVA
+	|			|BL
+	|			|
+	|	-------------------------------------------------
+	|	 |	|	|	|	|	|
+3 PL	machine3 PC	ATM	IVR	VISA	SMS	MOBILE APP
+	client	 |	 |	|	    |	  |		|
+		chrome/  app	interactive CC/DC know		android/macos
+		firefox/ |	voice based	  your		bank app
+		edge	 cash	response	  balance
+		|HTML		|
+	netbanking		chatbot/
+				whatsapp
+
+URL	https://www.icicibank.com
+	https://www.hdfcbank.com
+	https://www.sbi.com
+
+		browser -> address bar
+				|
+				www.icicibank.com
+				|
+			a welcome page would be rendered - HTML page
+
+
+	[Hyper Text] Markup Language
+	|
+	excitable
+		
+
+	the source code 
+
+	filename.html 
+	----------------
+	line1
+	line2
+	line3
+	..
+	..
+	line 100
+	------------------
+
+			a browser - client machine - 
+	
+
+		
+	everey line in html is a TAG 
+	|
+	< tagname > 
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
